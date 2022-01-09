@@ -1,0 +1,1 @@
+This repository is the result of my research assistant work on the impact of ethnicity on politics in Southeast Asia. I used R to implement data scraping, topic modeling, and word cloud generator. The main data is **not** included in this repository`. 
